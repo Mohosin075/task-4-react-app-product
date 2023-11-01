@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image": "product1.jpg",
+        "title": "Smartphone X1",
+        "description": "The latest Smartphone X1 comes with cutting-edge features and a stunning display. Stay connected like never before.",
+        "price": 599.99,
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "image": "product2.jpg",
+        "title": "Wireless Headphones H2",
+        "description": "Immerse yourself in music with the H2 wireless headphones. Enjoy high-quality sound and long-lasting comfort.",
+        "price": 99.99,
+        "category": "Electronics"
+    },
+    {
+        "id": 3,
+        "image": "product3.jpg",
+        "title": "Modern Coffee Table",
+        "description": "Add a touch of sophistication to your living room with this modern coffee table. Sleek design and ample storage space.",
+        "price": 199.99,
+        "category": "Furniture"
+    },
+    {
+        "id": 4,
+        "image": "product4.jpg",
+        "title": "Camping Tent A3",
+        "description": "Explore the great outdoors with the A3 camping tent. Easy to set up and built to withstand any weather.",
+        "price": 149.99,
+        "category": "Sports & Outdoors"
+    },
+    {
+        "id": 5,
+        "image": "product5.jpg",
+        "title": "Stainless Steel Cookware Set",
+        "description": "Upgrade your kitchen with this premium stainless steel cookware set. Cook like a pro with ease.",
+        "price": 129.99,
+        "category": "Kitchen"
+    }
+]
