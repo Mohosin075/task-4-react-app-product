@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "product1.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmtSo_YvfaNkoYTUvDNrTMyqUeo8pYF80kg&usqp=CAU",
         "title": "Smartphone X1",
         "description": "The latest Smartphone X1 comes with cutting-edge features and a stunning display. Stay connected like never before.",
         "price": 599.99,
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "image": "product2.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmtSo_YvfaNkoYTUvDNrTMyqUeo8pYF80kg&usqp=CAU",
         "title": "Wireless Headphones H2",
         "description": "Immerse yourself in music with the H2 wireless headphones. Enjoy high-quality sound and long-lasting comfort.",
         "price": 99.99,
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "image": "product3.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmtSo_YvfaNkoYTUvDNrTMyqUeo8pYF80kg&usqp=CAU",
         "title": "Modern Coffee Table",
         "description": "Add a touch of sophistication to your living room with this modern coffee table. Sleek design and ample storage space.",
         "price": 199.99,
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "image": "product4.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmtSo_YvfaNkoYTUvDNrTMyqUeo8pYF80kg&usqp=CAU",
         "title": "Camping Tent A3",
         "description": "Explore the great outdoors with the A3 camping tent. Easy to set up and built to withstand any weather.",
         "price": 149.99,
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "image": "product5.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmtSo_YvfaNkoYTUvDNrTMyqUeo8pYF80kg&usqp=CAU",
         "title": "Stainless Steel Cookware Set",
         "description": "Upgrade your kitchen with this premium stainless steel cookware set. Cook like a pro with ease.",
         "price": 129.99,
